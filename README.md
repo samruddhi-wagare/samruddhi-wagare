@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Samruddhi Vilas Wagare  
 
-<!--
-**samruddhi-wagare/samruddhi-wagare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence & Machine Learning (AIML)  
+💡 IoT | Automation | AI & Data Enthusiast  
+🏫 D. Y. Patil Agriculture and Technical University, Talsande  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a dedicated and enthusiastic engineering student with strong fundamentals in programming, data analysis, and IoT-based automation.  
+I enjoy building real-world solutions and actively contribute to cybersecurity awareness initiatives.
+
+Currently serving as **President of the Cyber Warrior Club (Quick Heal Foundation)**, promoting digital safety and cyber awareness on campus.
+
+---
+
+## 🔧 Technical Skills
+**Programming Languages:** C, C++, Python, R  
+**Web Technologies:** HTML, CSS, JavaScript  
+**Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Pytest  
+**IoT & Tools:** Arduino, IoT Sensors, Automation Systems  
+**Core Subjects:** DSA, DBMS, OS, AI, ML, Big Data, Statistics  
+**Tools:** GitHub, Visual Studio Code, Jupyter Notebook 
+
+---
+
+## 📌 Projects
+🌊 **Flood Monitoring and Alerting System (IoT)**  
+🌱 **Soil Irrigation System using IoT**
+
+---
+
+## 🏆 Academic Highlights
+- SGPA between **8.75 – 9.16**  
+- **85–89% aggregate** across semesters  
+
+---
+
+## 🧑‍💼 Positions of Responsibility
+**President – Cyber Warrior Club (Quick Heal Foundation)**  
+- Led cyber awareness programs  
+- Coordinated digital safety initiatives
+- Managed teams and coordinated inter-departmental activities  
+
+---
+
+## 📫 Connect With Me
+📧 samruddhiwagare98@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/samruddhi-wagare  
