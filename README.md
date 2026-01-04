@@ -24,9 +24,9 @@ Currently serving as **President of the Cyber Warrior Club (Quick Heal Foundatio
 
 ---
 
-## 📌 Projects
-🌊 **Flood Monitoring and Alerting System (IoT)**  
-🌱 **Soil Irrigation System using IoT**
+## 📌 Featured Projects
+🔗 🌱 Soil Irrigation System using IoT:(https://github.com/samruddhi-wagare/soil-irrigation-system-iot)  
+🔗 🌊 Flood Monitoring and Alerting System using IoT:(https://github.com/samruddhi-wagare/flood-monitoring-alerting-system-IOT)
 
 ---
 
