@@ -6,6 +6,9 @@
 
 ---
 
+## 🔗 Live Portfolio
+👉 https://samruddhi-wagare.github.io/samruddhi-wagare-portfolio/
+
 ## 👩‍💻 About Me
 I am a dedicated and enthusiastic engineering student with strong fundamentals in programming, data analysis, and IoT-based automation.  
 I enjoy building real-world solutions and actively contribute to cybersecurity awareness initiatives.
