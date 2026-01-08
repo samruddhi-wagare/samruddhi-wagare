@@ -48,5 +48,5 @@ Currently serving as **President of the Cyber Warrior Club (Quick Heal Foundatio
 ---
 
 ## 📫 Connect With Me
-📧 samruddhiwagare98@gmail.com  
+📧 Gmail: samruddhiwagare98@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/samruddhi-wagare  
